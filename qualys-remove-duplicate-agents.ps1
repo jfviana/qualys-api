@@ -1,4 +1,4 @@
-﻿#Author: Julio Viana
+﻿#Author: jfviana
 #Created: 2021-05-16
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
